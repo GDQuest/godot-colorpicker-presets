@@ -17,6 +17,8 @@ etc.
 
 ## ✗ WARNING
 
+> Compatible: Godot `>= v4.0`
+
 The addon:
 
 1. Doesn't check the length of the color palette/file.
