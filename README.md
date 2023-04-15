@@ -1,4 +1,4 @@
-# Godot ColorPicker Presets
+# GDQuest ColorPicker Presets
 
 Reads a color presets hex file in the addon local directory, called `presets.hex`. It adds the colors to the editor ColorPicker for quick access.
 

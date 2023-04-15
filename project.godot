@@ -16,4 +16,4 @@ config/icon="res://icon.svg"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/colorpicker-presets/plugin.cfg")
+enabled=PackedStringArray("res://addons/gdquest_colorpicker_presets/plugin.cfg")
